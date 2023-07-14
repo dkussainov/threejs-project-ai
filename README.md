@@ -6,6 +6,11 @@ Threejs project where I used 3D Shirt model with tools to customize it.
 
 This project was inspired by JSmastery.
 
+![Home](https://github.com/dkussainov/threejs/assets/64334735/e693e6ce-8765-4556-bc5c-ec9ef3a176a3)
+
+![Customize](https://github.com/dkussainov/threejs/assets/64334735/33ef2d58-bfb8-4669-87f2-784c0af0ecce)
+
+
 1. Users can change the color to whatever they want.
 
 2. Image can be uploaded from your PC, and used as a logo or as a full print on the shirt.
