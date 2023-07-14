@@ -17,6 +17,8 @@ This project was inspired by JSmastery.
 
 3. The most interesting part is that users can ask AI to create image for their shirt, by giving instructions on what they want to be on the image. This feature was implemented by using openai library and DALL.E.
 
+4. Download your shirt image
+
 # Deployment
 
 1. Server: Render.com
